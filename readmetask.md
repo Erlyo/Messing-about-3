@@ -5,7 +5,7 @@ Main information about app
 App HTML details
 
 ```html
-<p> Text paragraph</p>
+<p> Info info info </p>
 ```
 
 ## Third header
